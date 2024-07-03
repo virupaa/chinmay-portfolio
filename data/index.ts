@@ -85,6 +85,24 @@ export const navItems = [
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
       link: "https://image-alchemy-ten.vercel.app"
       ,
+    },
+    {
+      id: 3,
+      title: "AI-Powered Custom Shirt Color Visualizer",
+      des: "This AI-driven project leverages Three.js to create an interactive 3D environment, showcasing the integration of artificial intelligence with advanced web graphics. It highlights the potential of immersive experiences in AI applications.",
+      img: "/3js-project.png",
+      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "c.svg"],
+      link: "https://steady-alpaca-a90427.netlify.app/"
+      ,
+    },
+    {
+      id: 4,
+      title: "AI-Powered Custom Shirt Color Visualizer",
+      des: "This project is an AI-driven tool that automatically summarizes articles, helping users quickly grasp key points and insights. It demonstrates the capability of natural language processing to enhance information consumption efficiency.",
+      img: "/Ai-Summary.png",
+      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "cloud.svg"],
+      link: "https://steady-alpaca-a90427.netlify.app/"
+      ,
     }
   ];
   
