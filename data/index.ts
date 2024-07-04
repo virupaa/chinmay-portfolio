@@ -97,7 +97,7 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "AI-Powered Custom Shirt Color Visualizer",
+      title: "AI-Powered Article Summarizer",
       des: "This project is an AI-driven tool that automatically summarizes articles, helping users quickly grasp key points and insights. It demonstrates the capability of natural language processing to enhance information consumption efficiency.",
       img: "/Ai-Summary.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "cloud.svg"],
